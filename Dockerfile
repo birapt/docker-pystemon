@@ -1,5 +1,4 @@
 FROM ubuntu:16.04.4
-MAINTAINER Pedro Goncalves <birapt@gmail.com>
 
 # Let the conatiner know that there is no tty
 ENV DEBIAN_FRONTEND  noninteractive 
